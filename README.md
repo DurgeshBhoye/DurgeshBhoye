@@ -1,7 +1,7 @@
 
-## Hi there, I'm <a href="https://github.com/DurgeshBhoye" target="_blank" rel="noreferrer">Durgesh</a> 👋
+### Hi there, I'm <a href="https://github.com/DurgeshBhoye" target="_blank" rel="noreferrer">Durgesh</a> 👋
 
-### I'm a Full Stack Web Developer 💻!
+#### I'm a Full Stack Web Developer 💻!
  
 <p align="center">
   <a href="https://github.com/DurgeshBhoye" target="_blank" rel="noreferrer"><img src="image.png" alt="my banner"></a>
@@ -74,5 +74,5 @@
 
 <a href="https://www.linkedin.com/in/durgeshbhoye"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="DurgeshBhoye | LinkedIn" width="26px"/></a>
 </br>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+- 💬 If you have any questions/feedback, please do not hesitate to reach out to me!
 
