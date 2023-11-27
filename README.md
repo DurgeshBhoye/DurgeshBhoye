@@ -54,7 +54,7 @@
 ![VSCode](https://img.shields.io/badge/VS_CODE-%23323330.svg?style=for-the-badge&logo=visual%20studio&logoColor=0078d7)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&labelColor=black&logo=postman&logoColor=FF6C37)
 
-#### Extra 
+#### •
 
 ![Python](https://img.shields.io/badge/python-646464?style=for-the-badge&labelColor=FFE873&logo=python&logoColor=4B8BBE)
 
