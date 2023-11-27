@@ -59,7 +59,7 @@
 ##  📈 Top languages
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DurgeshBhoye)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DurgeshBhoye)
 
 
 ## 🔭 I'm currently working on
