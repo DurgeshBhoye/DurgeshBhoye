@@ -40,7 +40,7 @@
 
 #### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=darkgreen)
-![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=4479A1)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 #### Version Control
 
