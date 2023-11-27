@@ -46,7 +46,7 @@
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![render](https://img.shields.io/badge/render-%2320232a.svg?style=for-the-badge&logo=render&logoColor=blue)
+![render](https://img.shields.io/badge/render-%23000000.svg?style=for-the-badge&logo=render&logoColor=blue)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 #### Tools and 
