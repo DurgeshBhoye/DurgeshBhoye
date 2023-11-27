@@ -56,7 +56,7 @@
 
 #### Other
 
-![Python](https://img.shields.io/badge/python-646464?style=for-the-badge&labelColor=FFE873&logo=python&logoColor=306998)
+![Python](https://img.shields.io/badge/python-646464?style=for-the-badge&labelColor=FFE873&logo=python&logoColor=4B8BBE)
 
 </br>
 
