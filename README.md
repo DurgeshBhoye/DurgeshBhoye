@@ -36,7 +36,7 @@
 ![Nodejs](https://img.shields.io/badge/Node.js-337733?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![JsonWebTokens](https://img.shields.io/badge/jwt-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=purple)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=red)
+![NPM](https://img.shields.io/badge/NPM-%23121011.svg?style=for-the-badge&logo=npm&logoColor=red)
 
 #### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=darkgreen)
