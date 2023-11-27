@@ -42,14 +42,17 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=darkgreen)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=4479A1)
 
-#### Tools and Version Control
+#### Version Control
 
-![VSCode](https://img.shields.io/badge/VS_CODE-%23323330.svg?style=for-the-badge&logo=visual%20studio&logoColor=0078d7)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&labelColor=black&logo=postman&logoColor=FF6C37)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![render](https://img.shields.io/badge/render-%2320232a.svg?style=for-the-badge&logo=render&logoColor=blue)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+
+#### Tools and 
+
+![VSCode](https://img.shields.io/badge/VS_CODE-%23323330.svg?style=for-the-badge&logo=visual%20studio&logoColor=0078d7)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&labelColor=black&logo=postman&logoColor=FF6C37)
 
 </br>
 
