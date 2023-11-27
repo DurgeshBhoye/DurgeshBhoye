@@ -49,7 +49,7 @@
 ![render](https://img.shields.io/badge/render-%23000000.svg?style=for-the-badge&logo=render&logoColor=blue)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
-#### Tools and 
+#### Tools
 
 ![VSCode](https://img.shields.io/badge/VS_CODE-%23323330.svg?style=for-the-badge&logo=visual%20studio&logoColor=0078d7)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&labelColor=black&logo=postman&logoColor=FF6C37)
