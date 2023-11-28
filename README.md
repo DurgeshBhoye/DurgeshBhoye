@@ -1,7 +1,7 @@
 
 ### Hi there, I'm <a href="https://github.com/DurgeshBhoye" target="_blank" rel="noreferrer">Durgesh</a> 👋
 
-#### I'm a Full Stack Web Developer 💻!
+#### I'm a Full Stack Developer 💻!
  
 <p align="center">
   <a href="https://github.com/DurgeshBhoye" target="_blank" rel="noreferrer"><img src="README.gif" alt="my banner"></a>
