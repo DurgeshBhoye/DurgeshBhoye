@@ -69,6 +69,8 @@
 ## 🔭 I'm currently working on
 
 - Personal Portfolio Website (React)
+- Ecommerce App Deployment
+- Twitter Clone Deployment
 
 
 ## 🌱 I'm currently learning
