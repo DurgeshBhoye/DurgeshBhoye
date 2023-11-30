@@ -7,6 +7,8 @@
   <a href="https://github.com/DurgeshBhoye" target="_blank" rel="noreferrer"><img src="README.gif" alt="my banner"></a>
 </p>
 
+##### Certificate 
+
 <p align="center"><a href="https://www.linkedin.com/posts/durgeshbhoye_successfully-completed-the-full-stack-development-activity-7135693698746494977-AQRH?utm_source=share&utm_medium=member_android"><img src="certificate.png" alt="my banner" width="70"></a></p>
 
 <!-- About Section -->
