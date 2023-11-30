@@ -2,12 +2,14 @@
 ### Hi there, I'm <a href="https://github.com/DurgeshBhoye" target="_blank" rel="noreferrer">Durgesh</a> 👋
 
 #### I'm a Full Stack Developer 💻!
+
+<p align="center"><a href="https://www.linkedin.com/posts/durgeshbhoye_successfully-completed-the-full-stack-development-activity-7135693698746494977-AQRH?utm_source=share&utm_medium=member_android"><img src="certificate.png" alt="my banner" width="70"></a></p>
  
 <p align="center">
   <a href="https://github.com/DurgeshBhoye" target="_blank" rel="noreferrer"><img src="README.gif" alt="my banner"></a>
 </p>
 
-<p align="center"><a href="https://www.linkedin.com/posts/durgeshbhoye_successfully-completed-the-full-stack-development-activity-7135693698746494977-AQRH?utm_source=share&utm_medium=member_android"><img src="certificate.png" alt="my banner" width="50"></a></p>
+
 
 <!-- About Section -->
  ## ℹ️ About me
