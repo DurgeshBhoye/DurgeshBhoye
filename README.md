@@ -7,7 +7,7 @@
   <a href="https://github.com/DurgeshBhoye" target="_blank" rel="noreferrer"><img src="README.gif" alt="my banner"></a>
 </p>
 
-<button><a href="https://trainings.internshala.com/s/v/3193984/0b689294" target="_blank"><img src="https://trainings.internshala.com/s/v/3193984/0b689294" alt="my banner"></a></button>
+<p align="center"><a href="https://www.linkedin.com/posts/durgeshbhoye_successfully-completed-the-full-stack-development-activity-7135693698746494977-AQRH?utm_source=share&utm_medium=member_android">FSD certificate here...</a></p>
 
 <!-- About Section -->
  ## ℹ️ About me
