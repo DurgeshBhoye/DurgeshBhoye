@@ -7,7 +7,7 @@
   <a href="https://github.com/DurgeshBhoye" target="_blank" rel="noreferrer"><img src="README.gif" alt="my banner"></a>
 </p>
 
-<button><a href="https://trainings.internshala.com/s/v/3193984/0b689294" target="_blank"><img src="README.gif" alt="my banner"></a></button>
+<button><a href="https://trainings.internshala.com/s/v/3193984/0b689294" target="_blank"><img src="https://trainings.internshala.com/s/v/3193984/0b689294" alt="my banner"></a></button>
 
 <!-- About Section -->
  ## ℹ️ About me
