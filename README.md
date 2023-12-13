@@ -19,8 +19,8 @@
   
  ✌️ &emsp; Enjoy to do programming and explore new technologies </br></br>
  ❤️ &emsp; I love the entire process of developing creative websites. </br></br>
- 🔎 &emsp; I love the challenge of finding bugs and spending time on solving coding problems. </br></br>
- 🎯 &emsp; And Learning how people do code. </br></br>
+ 🎯 &emsp; I love the challenge of finding bugs and spending time on solving coding problems. </br></br>
+ 
 
 
 ## 💼 Technical Skills
